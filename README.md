@@ -1,4 +1,0 @@
-ror
-===
-
-ruby on rails
